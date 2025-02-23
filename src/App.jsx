@@ -2,7 +2,7 @@ function App() {
   return (
     <>
       <h1 className="text-2xl text-red-500">Hello, Testing Tailwind!!!</h1>
-      <div className="card bg-base-100 w-96 shadow-sm">
+      <div className="card bg-base-100 w-96 shadow-sm mx-auto">
         <figure>
           <img
             src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
