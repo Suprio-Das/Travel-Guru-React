@@ -30,12 +30,12 @@ const Navbar = () => {
                 </div>
                 <div className="navbar-end">
                     <ul className="menu menu-horizontal px-1">
-                        <li className="ms-5"><Link>News</Link></li>
-                        <li className="ms-5"><Link>Destination</Link></li>
-                        <li className="ms-5"><Link>Blog</Link></li>
-                        <li className="ms-5"><Link>Contact</Link></li>
+                        <li className="ms-3"><Link>News</Link></li>
+                        <li className="ms-3"><Link>Destination</Link></li>
+                        <li className="ms-3"><Link>Blog</Link></li>
+                        <li className="ms-3"><Link>Contact</Link></li>
                     </ul>
-                    <a className="btn ms-5">Login</a>
+                    <a className="btn ms-3">Login</a>
                 </div>
             </div>
         </div>
